@@ -1,6 +1,6 @@
-# adyen_checkout_example
+# gms_places_api_example
 
-Demonstrates how to use the adyen_checkout plugin.
+Demonstrates how to use the gms_places_api plugin.
 
 ## Getting Started
 

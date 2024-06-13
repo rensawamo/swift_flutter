@@ -1,9 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.adyen.checkout.flutter">
-
-    <application>
-        <service android:name=".dropIn.session.SessionDropInService" />
-        <service android:name=".dropIn.advanced.AdvancedDropInService" />
-    </application>
-
+  package="dev.laihz.gms_places_api">
 </manifest>
