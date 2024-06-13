@@ -1,7 +1,7 @@
 ### package 　作成コマンド
 
 ```sh
-$ flutter create --org jp.co.altive --template=plugin --platforms=android,ios camera --project-name camera
+$ flutter create --org jp.co.altive --template=plugin --platforms=android,ios PACKEAGENAME --project-name PACKEAGENAME
 ```
 
 ### ルートに pigeons ディレクトリを作成
