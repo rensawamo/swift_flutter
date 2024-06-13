@@ -141,7 +141,7 @@ import GooglePlaces
 }
 ````
 
-### dart のアプリで初期化して
+### dart のアプリで初期化して @HostApiで定義した関数を呼ぶ
 
 ```dart
 await GmsPlacesApi.ensureInitialized();
